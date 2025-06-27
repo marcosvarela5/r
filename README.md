@@ -1,2 +1,2 @@
 # r
-Repositorio de prácticas realizadas en lenguaje de programación estadístico R correspondientes al primer curso de ingeniería informática de la UDC. Las prácticas propuestas trabajan en la adaptación de problemas estadísticos al código para encontrar una solución a los mismos utilizando el lenguaje R.
+Repository of practical exercises completed in the statistical programming language R, corresponding to the first year of the Computer Engineering degree at UDC. The proposed exercises focus on adapting statistical problems into code in order to find solutions using the R language.
